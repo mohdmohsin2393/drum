@@ -8,8 +8,12 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
+
+.container-fluid{
+  padding-top: 5%;  
+}
+
 
 footer {
   color: #DBEDF3;
